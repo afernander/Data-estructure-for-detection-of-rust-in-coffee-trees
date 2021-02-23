@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Guardado
+comment0.text=\r\n\ Esta\ clase\ contiene\ los\ metodos\ que\ crean\ el\ archivo\ y\ le\ agregan\ informacion\ a\ este\ mismo.\r\n\ \r\n\ @author\ Alejandro\ Fern\u00C3\u00A1ndez\ Restrepo\r\n\ @version\ mayo\ de\ 2019\r\n
+comment1.params=
+comment1.target=void\ crearArchivo()
+comment2.params=textoAguardar
+comment2.target=void\ aniadirArchivo(java.lang.String)
+numComments=3

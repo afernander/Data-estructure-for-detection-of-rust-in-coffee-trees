@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=matriz
+comment1.target=Node(double[][])
+comment10.params=
+comment10.target=double\ getData()
+comment2.params=matriz
+comment2.target=int\ totalRoya(double[][])
+comment3.params=matriz\ variable\ valor
+comment3.target=double[][]\ ladoIzq(double[][],\ int,\ double)
+comment4.params=matriz\ variable\ valor
+comment4.target=double[][]\ ladoDer(double[][],\ int,\ double)
+comment5.params=matriz\ variable
+comment5.target=double[][]\ quitarColumna(double[][],\ int)
+comment6.params=datos
+comment6.target=double\ valorimpureza(double[][])
+comment7.params=datos
+comment7.target=int\ variableimpureza(double[][])
+comment8.params=
+comment8.target=Node\ getLeft()
+comment9.params=
+comment9.target=Node\ getRigth()
+numComments=11

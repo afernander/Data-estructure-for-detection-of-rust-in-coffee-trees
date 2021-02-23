@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dato
+comment1.params=ph\ soil_temperature\ soil_moisture\ illuminance\ env_temperature\ env_humidity\ label
+comment1.target=Dato(double,\ double,\ double,\ double,\ double,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getPh()
+comment3.params=
+comment3.target=double\ getSoil_temperature()
+comment4.params=
+comment4.target=double\ getSoil_moisture()
+comment5.params=
+comment5.target=double\ getIlluminance()
+comment6.params=
+comment6.target=double\ getEnv_temperature()
+comment7.params=
+comment7.target=double\ getEnv_humity()
+comment8.params=
+comment8.target=java.lang.String\ getLabel()
+numComments=9
